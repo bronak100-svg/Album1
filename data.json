@@ -1,3 +1,13 @@
 {
-  "albums": []
+  "albums": [
+    {
+      "title": "trip to Poland Sep 2025",
+      "photos": [
+        {
+          "file": "/PICS/uploads/rr1.jpg",
+          "caption": "urav 2025"
+        }
+      ]
+    }
+  ]
 }
